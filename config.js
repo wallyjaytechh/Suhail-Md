@@ -71,10 +71,10 @@ module.exports = {
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
-  VERSION : process.env.VERSION || "1",
+  VERSION : process.env.VERSION || "1.3.9",
   caption : global.caption || "ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕎𝔸𝕃𝕃𝕐 𝕁𝔸𝕐 𝕋𝔼ℂℍ" , // ```
  
-  author : process.env.PACK_AUTHER|| "YWALLY JAY TECH",
+  author : process.env.PACK_AUTHER|| "WALLY JAY TECH",
   packname: process.env.PACK_NAME || "WALLY JAY TECH STICKER",
   botname : process.env.BOT_NAME  || "WALLYJAYTECH-MD",
   ownername:process.env.OWNER_NAME|| "WALLY JAY TECH",
